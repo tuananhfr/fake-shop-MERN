@@ -11,6 +11,8 @@ import {
   PRODUCT_LIST_SUCCESS,
 } from "../constants/ProductConstants";
 import { logout } from "./UserActions";
+import URL from "utils/Url.js"
+
 // Product list
 export const listProduct =
   (keyword = " ", pageNumber = " ") =>

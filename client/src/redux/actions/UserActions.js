@@ -16,6 +16,8 @@ import {
   USER_UPDATE_PROFILE_REQUEST,
   USER_UPDATE_PROFILE_SUCCESS,
 } from "../constants/UserConstants";
+import URL from "utils/Url.js"
+
 
 // Login
 export const login = (email, password) => async (dispatch) => {
