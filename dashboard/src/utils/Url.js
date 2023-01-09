@@ -1,1 +1,1 @@
-export const URL = process.env.BASE_URL_SERVER
+export const URL = "https://fake-shop-api.vercel.app";
