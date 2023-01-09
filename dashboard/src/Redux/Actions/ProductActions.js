@@ -17,7 +17,7 @@ import {
 } from "../Constants/ProductConstants";
 import axios from "axios";
 import { logout } from "./userActions";
-import URL from "utils/Url.js"
+import { URL } from "../../utils/Url.js"
 
 export const listProducts = () => async (dispatch, getState) => {
   try {

@@ -10,7 +10,7 @@ import {
 } from "../Constants/UserContants";
 import axios from "axios";
 import { toast } from "react-toastify";
-import URL from "utils/Url.js"
+import { URL } from "../../utils/Url.js"
 
 // LOGIN
 export const login = (email, password) => async (dispatch) => {
