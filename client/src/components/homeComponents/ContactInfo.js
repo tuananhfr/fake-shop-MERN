@@ -10,7 +10,7 @@ const ContactInfo = () => {
               <i className="fas fa-phone-alt"></i>
             </div>
             <h5>Call Us 24x7</h5>
-            <p>0736 230 063</p>
+            <p>+33 66 21 36 192</p>
           </div>
         </div>
         <div className="col-12 col-md-4 contact-Box">
@@ -19,7 +19,7 @@ const ContactInfo = () => {
               <i className="fas fa-map-marker-alt"></i>
             </div>
             <h5>Headquarter</h5>
-            <p>Arusha Njiro Pepsi</p>
+            <p>Lille, France</p>
           </div>
         </div>
         <div className="col-12 col-md-4 contact-Box">
@@ -28,7 +28,7 @@ const ContactInfo = () => {
               <i className="fas fa-fax"></i>
             </div>
             <h5>Fax</h5>
-            <p>0736 230 063</p>
+            <p>+33 99 99 99 99 99</p>
           </div>
         </div>
       </div>
